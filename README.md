@@ -20,7 +20,6 @@ How to Run:
 Clone the repo: git clone <repo-url>
 Install dependencies: mvn clean install
 Run the app: mvn spring-boot:run
-Access at http://localhost:8080
 Learning Outcomes:
 
 Mastered WebSocket and STOMP for real-time communication
